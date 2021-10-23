@@ -9,5 +9,5 @@ Nowadays the modeling scene is extremely competitive, and many are unfriendly an
 ### Solution
 I have created this document in the hopes of creating an **equal** platform for all to use, it is not the best but i hope it will be something.
 
-#### Disclaimer
+### Disclaimer
 Anything written in this document is not factual, but many information located here is to some degree accurate, if there is any inaccurate information please do send me a message at **Hyena#8615**
